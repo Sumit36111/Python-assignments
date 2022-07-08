@@ -1,6 +1,6 @@
 #Assignment 6
-#Name: Navodit Gupta
-#SID : 21107082
+#Name: Sumit
+#SID : 21107068
 #Branch: Mechanical
 
 print("Q1")
@@ -84,10 +84,10 @@ print("Q7")
 
 class Student:
     pass
-Navodit = Student()
-Navodit.name = "Navodit"
-print(Navodit)
-print(Navodit.name)
+Sumit = Student()
+Sumit.name = "Sumit"
+print(Sumit)
+print(Sumit.name)
 
 class Marks:
     pass
