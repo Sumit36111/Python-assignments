@@ -1,4 +1,7 @@
-
+#Assignment 7
+#Name: Sumit
+#SID: 21107068
+#Branch: Mechanical
 from tkinter import *
   
 # Function for finding GST rate
